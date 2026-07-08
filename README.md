@@ -7,7 +7,7 @@
 在 Codex 里让助手安装这个 skill：
 
 ```text
-请从 https://github.com/YOUR_GITHUB_USERNAME/ai-sales-stall-king-skill/tree/main/skills/ai-sales-stall-king 安装这个 skill
+请从 https://github.com/Ling-huahua/ai-sales-stall-king-skill/tree/main/skills/ai-sales-stall-king 安装这个 skill
 ```
 
 安装完成后，重启 Codex。
@@ -45,4 +45,3 @@ $ai-sales-stall-king 根据我上传的商品图生成卖货物料
 - B：你需要哪些内容
 
 建议先生成第一版整体效果；如果想让第二版更准，再补充成本价、尺码、库存、发货地、材质成分、更多细节图等信息。
-
