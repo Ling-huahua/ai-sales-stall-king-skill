@@ -1,0 +1,5 @@
+interface:
+  display_name: "卖货物料生成器"
+  short_description: "拍一张或多张商品照，生成多平台可发布物料"
+  default_prompt: "用 $ai-sales-stall-king 帮我把这些商品照片生成可发布的平台图片、文案、视频脚本和客服话术"
+
